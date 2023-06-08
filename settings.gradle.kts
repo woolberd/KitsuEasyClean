@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "KitsuEasyClean"
-include ':app'
+include (":app")

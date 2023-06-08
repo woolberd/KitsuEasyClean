@@ -1,4 +1,4 @@
-package com.example.kitsueasyclean.domain.base
+package com.example.kitsueasyclean.data.base
 
 import com.example.kitsueasyclean.domain.utils.Resource
 import kotlinx.coroutines.flow.flow

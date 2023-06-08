@@ -6,5 +6,5 @@ import kotlinx.coroutines.flow.Flow
 
 interface MangaRepository {
 
-    suspend fun fetchManga(): Flow<Resource<List<DataItem>>>
+    fun fetchManga(): Flow<Resource<List<DataItem>>>
 }
